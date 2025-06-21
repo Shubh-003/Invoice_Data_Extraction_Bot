@@ -36,6 +36,10 @@ You can download and test with this sample:
 
 ➡️ [Download sample_invoice.pdf](sample_files/sample_invoice.pdf)
 
+## Output
+<img src="output.jpg" />
+
+
 ## 🧪 Future Scope
 * Add line-item parsing with table recognition
 * Add multi-language OCR support
